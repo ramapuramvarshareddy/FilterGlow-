@@ -10,6 +10,7 @@
 🔹 NumPy – For efficient image operations.
 
 📸 How It Works:
+
 1️⃣ The webcam captures video.
 
 2️⃣ The background is segmented using MediaPipe Selfie Segmentation.
